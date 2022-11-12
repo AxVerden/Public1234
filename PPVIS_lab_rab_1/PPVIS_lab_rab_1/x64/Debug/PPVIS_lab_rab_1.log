@@ -1,0 +1,10 @@
+﻿  Controller.cpp
+C:\Users\user\source\repos\PPVIS_lab_rab_1\PPVIS_lab_rab_1\Field.h(137,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\PPVIS_lab_rab_1\PPVIS_lab_rab_1\Field.h(144,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\PPVIS_lab_rab_1\PPVIS_lab_rab_1\Controller.h(55,10): warning C4101: c: неиспользованная локальная переменная
+  PPVIS_lab_rab_1.cpp
+C:\Users\user\source\repos\PPVIS_lab_rab_1\PPVIS_lab_rab_1\Field.h(137,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\PPVIS_lab_rab_1\PPVIS_lab_rab_1\Field.h(144,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\PPVIS_lab_rab_1\PPVIS_lab_rab_1\Controller.h(55,10): warning C4101: c: неиспользованная локальная переменная
+  Создание кода...
+  PPVIS_lab_rab_1.vcxproj -> C:\Users\user\source\repos\PPVIS_lab_rab_1\x64\Debug\PPVIS_lab_rab_1.exe
